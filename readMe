@@ -1,0 +1,21 @@
+
+1)getWords.py: gets called by coordinateProcessing.py
+
+2)coordinateProcessing.py: gets called by processCordinateintermediate.py
+
+3)processCordinateintermediate.py:
+
+4)processCordinate_2.py
+
+5)processCordinate_22.py: this is main code to run.
+
+3) visualize.py: shows intermediate images. Called by processCordinate_22.py.
+
+6) getCCPage.py :removes bigger CC
+
+7) invert.py: black and white conversion
+
+8)extractWordCordinates_3.py: creation of csv from hocr
+
+9)hocr.py: creation of hocr
+
